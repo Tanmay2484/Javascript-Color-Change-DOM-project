@@ -1,0 +1,32 @@
+#white{
+    width:50px;
+    height: 50px;
+    background-color:rgba(252, 249, 249, 0.981);
+    border: 2px solid black;
+    cursor: pointer;
+}
+#ash{
+    width:50px;
+    height: 50px;
+    background-color:rgba(107, 103, 103, 0.981);
+    border: 2px solid black;
+    cursor: pointer;
+}
+#blue{
+    width:50px;
+    height: 50px;
+    background-color:rgba(11, 22, 225, 0.981);
+    border: 2px solid black;
+    cursor: pointer;
+}
+#yellow{
+    width:50px;
+    height: 50px;
+    background-color:rgba(225, 218, 11, 0.981);
+    border: 2px solid black;
+    cursor: pointer;
+}
+.parent{
+    display: flex;
+    justify-content:space-evenly;
+}
